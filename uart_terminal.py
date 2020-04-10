@@ -63,4 +63,4 @@ root.mainloop()
 #need to understand how does UART functions --done
 #create another text box to show all user inputs 
 #solve the serial libary problem
-#output to the GUI the process
+#output to the GUI the process -- in progress
